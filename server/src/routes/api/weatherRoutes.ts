@@ -5,9 +5,12 @@ const router = Router();
 // import WeatherService from '../../service/weatherService.js';
 
 // TODO: POST Request with city name to retrieve weather data
+// POST /api/weather/:city
 router.post('/', (req: Request, res: Response) => {
   // TODO: GET weather data from city name
   // TODO: save city to search history
+  try {
+
 });
 
 // TODO: GET search history
