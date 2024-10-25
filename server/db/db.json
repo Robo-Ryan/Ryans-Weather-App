@@ -1,1 +1,22 @@
-[]
+[
+	{
+		"name": "San Diego",
+		"id": "33323442-0fe0-45e6-b828-f3034efb9918"
+	},
+	{
+		"name": "Philadelphia",
+		"id": "443965dc-357b-4579-94b2-bf874cc45fab"
+	},
+	{
+		"name": "Pittsburgh, California",
+		"id": "0455bd1e-67d9-4ba0-82ff-37127a82b25d"
+	},
+	{
+		"name": "Mendocino",
+		"id": "edb3c1f1-b980-4378-b783-6104d956b42f"
+	},
+	{
+		"name": "eurika",
+		"id": "5c088ce0-d636-4190-a42f-a4c0394bd7cf"
+	}
+]
