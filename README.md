@@ -3,6 +3,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
 ## Description
 
 This project is a full-stack weather forecast application that allows users to search for weather forecasts by city. The application retrieves and displays weather data from the OpenWeatherMap API using the city’s geographical coordinates.
